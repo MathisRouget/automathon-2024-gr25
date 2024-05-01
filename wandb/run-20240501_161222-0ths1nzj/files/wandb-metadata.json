@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.3.1-arm64-arm-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-05-01T14:12:23.434820",
+    "startedAt": "2024-05-01T14:12:22.621757",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:MathisRouget/automathon-2024-gr25.git",
+        "commit": "14038fff94bd79cd6c49d079853f4efbb477d1d1"
+    },
+    "email": "georgia.achebel@student-cs.fr",
+    "root": "/Users/georgiaabouchebel/automathon-2024-gr25",
+    "host": "MacBook-Pro-de-Georgia.local",
+    "username": "georgiaabouchebel",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 13.358806610107422
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
